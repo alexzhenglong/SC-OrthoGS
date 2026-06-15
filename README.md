@@ -133,7 +133,7 @@ If you find our work or this code useful in your research, please consider citin
 ```bibtex
 @article{cai2025orthophoto,
   title={Orthophoto generation from sparse views via structurally consistent prior-guided 3D Gaussian splatting},
-  author={Cai, Zhenglong and Huang, He and Ye, Tong and Bian, Wenyao and Wang, Tianjiao and Yang, Junxing and Jiang, San},
+  author={Cai, Zhenglong and Huang, He and Ye, Tong and Bian, Wenyao and Wang, Tianjiao and Yang, Junxing},
   journal={Journal of Applied Remote Sensing},
   volume={19},
   number={4},
